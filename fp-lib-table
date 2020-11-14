@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name batt)(type KiCad)(uri /home/nick/Documents/kicad/ez_rail/battery_holder)(options "")(descr ""))
+)

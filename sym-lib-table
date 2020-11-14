@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ez_rail)(type Legacy)(uri ${KIPRJMOD}/ez_rail.lib)(options "")(descr ""))
+  (lib (name batt)(type Legacy)(uri /home/nick/Documents/kicad/ez_rail/battery_holder/1294.lib)(options "")(descr ""))
+)
